@@ -1,0 +1,2168 @@
+{
+    "attributes": {
+      "entity": [
+        "basic-profile",
+        "previous-names",
+        "previous-uens",
+        "addresses",
+        "financials",
+        "capitals",
+        "appointments",
+        "shareholders",
+        "grants",
+        "builders-contractors",
+        "gov-contracts",
+        "licences"
+      ],
+      "person": [
+        "uinfin",
+        "name",
+        "hanyupinyinname",
+        "aliasname",
+        "hanyupinyinaliasname",
+        "marriedname",
+        "sex",
+        "race",
+        "secondaryrace",
+        "dialect",
+        "nationality",
+        "dob",
+        "birthcountry",
+        "residentialstatus",
+        "passportnumber",
+        "passportexpirydate",
+        "regadd",
+        "housingtype",
+        "hdbtype",
+        "ownerprivate",
+        "email",
+        "mobileno",
+        "marital",
+        "marriagecertno",
+        "countryofmarriage",
+        "marriagedate",
+        "divorcedate",
+        "childrenbirthrecords",
+        "occupation",
+        "employment",
+        "workppassstatus",
+        "workpassexpirydate",
+        "assessableincome",
+        "assessyear",
+        "noa-basic",
+        "noa",
+        "noahistory-basic",
+        "noahistory",
+        "cpfcontributions",
+        "cpfbalances",
+        "vehicles"
+      ]
+    },
+    "personas": {
+        "123456789A": {
+            "entity": {
+              "grants": {
+                "grants-list": [],
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "classification": "C"
+              },
+              "financials": {
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "highlights": [
+                  {
+                    "company-profit-loss-before-tax": {
+                      "value": 10246729
+                    },
+                    "company-revenue": {
+                      "value": 30000000
+                    },
+                    "current-period-start-date": {
+                      "value": "2015-01-01"
+                    },
+                    "company-profit-loss-after-tax": {
+                      "value": 7395620
+                    },
+                    "group-capital-paid-up-capital-amount": {
+                      "value": 10000000
+                    },
+                    "currency": {
+                      "code": "SGD",
+                      "desc": "SINGAPORE, DOLLARS"
+                    },
+                    "group-profit-loss-before-tax": {
+                      "value": 217493017
+                    },
+                    "group-profit-loss-after-tax": {
+                      "value": 152749482
+                    },
+                    "current-period-end-date": {
+                      "value": "2015-12-31"
+                    },
+                    "is-audited": {
+                      "value": "Y"
+                    },
+                    "group-revenue": {
+                      "value": 980000000
+                    }
+                  }
+                ],
+                "classification": "C"
+              },
+              "addresses": {
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "addresses-list": [
+                  {
+                    "standard": {
+                      "code": "D",
+                      "desc": "Singapore Government Enterprise Architecture (SGEA) Data Reference Model (DRM) Standard"
+                    },
+                    "country": {
+                      "code": "SG",
+                      "desc": "SINGAPORE"
+                    },
+                    "unit": {
+                      "value": "88"
+                    },
+                    "street": {
+                      "value": "Ubi Cresent"
+                    },
+                    "block": {
+                      "value": "10"
+                    },
+                    "postal": {
+                      "value": "408564"
+                    },
+                    "floor": {
+                      "value": "4"
+                    },
+                    "type": "SG",
+                    "building": {
+                      "value": "Lobby E Ubi Techpark"
+                    }
+                  }
+                ],
+                "classification": "C"
+              },
+              "appointments": {
+                "lastupdated": "2020-11-09",
+                "appointments-list": [
+                  {
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SG",
+                        "desc": "SINGAPORE CITIZEN"
+                      },
+                      "idno": {
+                        "value": "S6005051A"
+                      },
+                      "person-name": {
+                        "value": "MR MYINFO A"
+                      }
+                    },
+                    "position": {
+                      "code": "7",
+                      "desc": "Director"
+                    },
+                    "appointment-date": {
+                      "value": "2010-07-13"
+                    },
+                    "category": {
+                      "code": "1",
+                      "desc": "Individual"
+                    }
+                  },
+                  {
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SG",
+                        "desc": "SINGAPORE CITIZEN"
+                      },
+                      "idno": {
+                        "value": "S6005048A"
+                      },
+                      "person-name": {
+                        "value": "ANDY LAU"
+                      }
+                    },
+                    "position": {
+                      "code": "",
+                      "desc": ""
+                    },
+                    "appointment-date": {
+                      "value": "2010-07-13"
+                    },
+                    "category": {
+                      "code": "1",
+                      "desc": "Individual"
+                    }
+                  },
+                  {
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SP",
+                        "desc": "SINGAPORE PR"
+                      },
+                      "idno": {
+                        "value": "S9912374E"
+                      },
+                      "person-name": {
+                        "value": "TIMOTHY TAN CHENG GUAN"
+                      }
+                    },
+                    "position": {
+                      "code": "7",
+                      "desc": "Director"
+                    },
+                    "appointment-date": {
+                      "value": "2010-07-13"
+                    },
+                    "category": {
+                      "code": "1",
+                      "desc": "Individual"
+                    }
+                  },
+                  {
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SG",
+                        "desc": "SINGAPORE CITIZEN"
+                      },
+                      "idno": {
+                        "value": "S9812386E"
+                      },
+                      "person-name": {
+                        "value": "CLARISSA LIN JIN PING"
+                      }
+                    },
+                    "position": {
+                      "code": "28",
+                      "desc": "Secretary"
+                    },
+                    "appointment-date": {
+                      "value": "2010-07-13"
+                    },
+                    "category": {
+                      "code": "1",
+                      "desc": "Individual"
+                    }
+                  }
+                ],
+                "source": "1",
+                "classification": "C"
+              },
+              "builders": {
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "classification": "C",
+                "builders-list": []
+              },
+              "basic-profile": {
+                "entity-type": {
+                  "code": "LC",
+                  "desc": "Local Company"
+                },
+                "entity-status": {
+                  "value": "LIVE"
+                },
+                "business-expiry-date": {
+                  "value": ""
+                },
+                "primary-activity": {
+                  "code": "310",
+                  "desc": "MANUFACTURE OF FURNITURE"
+                },
+                "registration-date": {
+                  "value": "2010-07-13"
+                },
+                "country-of-incorporation": {
+                  "code": "SG",
+                  "desc": "SINGAPORE"
+                },
+                "business-constitution": {
+                  "code": "",
+                  "desc": ""
+                },
+                "source": "1",
+                "classification": "C",
+                "secondary-activity": {
+                  "code": "5612",
+                  "desc": "Fast Food Outlets, Food Courts and Food Kiosks"
+                },
+                "entity-name": {
+                  "value": "Panel Consultancy Limited"
+                },
+                "ownership": {
+                  "code": "1",
+                  "desc": "Individual Shareholders only"
+                },
+                "company-type": {
+                  "code": "B1",
+                  "desc": "Private Company Limited by Shares"
+                },
+                "lastupdated": "2020-11-09",
+                "uen": {
+                  "value": "T14LP0063A"
+                }
+              },
+              "shareholders": {
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "classification": "C",
+                "shareholders-list": [
+                  {
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SG",
+                        "desc": "SINGAPORE CITIZEN"
+                      },
+                      "idno": {
+                        "value": "S6005051A"
+                      },
+                      "person-name": {
+                        "value": "MR MYINFO A"
+                      }
+                    },
+                    "allocation": {
+                      "value": 8000
+                    },
+                    "currency": {
+                      "code": "SGD",
+                      "desc": "SINGAPORE, DOLLARS"
+                    },
+                    "category": {
+                      "code": "1",
+                      "desc": "Individual"
+                    },
+                    "share-type": {
+                      "code": "1",
+                      "desc": "Ordinary Capital"
+                    }
+                  },
+                  {
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SP",
+                        "desc": "SINGAPORE PR"
+                      },
+                      "idno": {
+                        "value": "S9912374E"
+                      },
+                      "person-name": {
+                        "value": "TIMOTHY TAN CHENG GUAN"
+                      }
+                    },
+                    "allocation": {
+                      "value": 12000
+                    },
+                    "currency": {
+                      "code": "SGD",
+                      "desc": "SINGAPORE, DOLLARS"
+                    },
+                    "category": {
+                      "code": "1",
+                      "desc": "Individual"
+                    },
+                    "share-type": {
+                      "code": "1",
+                      "desc": "Ordinary Capital"
+                    }
+                  }
+                ]
+              },
+              "capitals": {
+                "capitals-list": [
+                  {
+                    "paid-up-capital-amount": {
+                      "value": 20000
+                    },
+                    "capital-type": {
+                      "code": "2",
+                      "desc": "Preference Capital"
+                    },
+                    "issued-capital-amount": {
+                      "value": 20000
+                    },
+                    "currency": {
+                      "code": "SGD",
+                      "desc": "SINGAPORE, DOLLARS"
+                    },
+                    "share-allotted-amount": {
+                      "value": 20000
+                    }
+                  }
+                ],
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "classification": "C"
+              },
+              "contractors": {
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "contractors-list": [],
+                "classification": "C"
+              },
+              "previous-uens": {
+                "lastupdated": "2020-11-09",
+                "previous-uens-list": [
+                  {
+                    "previous-uen": {
+                      "value": "T65LP6344U"
+                    }
+                  },
+                  {
+                    "previous-uen": {
+                      "value": "T31LP9472X"
+                    }
+                  }
+                ],
+                "source": "1",
+                "classification": "C"
+              },
+              "corppass-contacts": {
+                "lastupdated": "2020-11-09",
+                "corppass-contacts-list": [
+                  {
+                    "corppass-email": {
+                      "value": "myinfotesting@company.com"
+                    },
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SP",
+                        "desc": "SINGAPORE PR"
+                      },
+                      "idno": {
+                        "value": "S9912374E"
+                      },
+                      "person-name": {
+                        "value": "TIMOTHY TAN CHENG GUAN"
+                      }
+                    },
+                    "corppass-mobileno": {
+                      "value": ""
+                    }
+                  },
+                  {
+                    "corppass-email": {
+                      "value": "myinfotesting@company.com"
+                    },
+                    "person-reference": {
+                      "nationality": {
+                        "code": "SG",
+                        "desc": "SINGAPORE CITIZEN"
+                      },
+                      "idno": {
+                        "value": "S6005051A"
+                      },
+                      "person-name": {
+                        "value": "MR MYINFO A"
+                      }
+                    },
+                    "corppass-mobileno": {
+                      "value": "97399245"
+                    }
+                  }
+                ],
+                "source": "1",
+                "classification": "C"
+              },
+              "previous-names": {
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "previous-names-list": [],
+                "classification": "C"
+              },
+              "gov-contracts": {
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "classification": "C",
+                "gov-contracts-list": []
+              },
+              "licences": {
+                "licences-list": [],
+                "lastupdated": "2020-11-09",
+                "source": "1",
+                "classification": "C"
+              }
+            },
+            "person": {
+              "uinfin": {
+                "value": "S1111111D",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "name": {
+                "value": "TAN XIAO HUI",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "hanyupinyinname": {
+                "value": "CHEN XIAO HUI",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "aliasname": {
+                "value": "TRICIA TAN XIAO HUI",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "hanyupinyinaliasname": {
+                "value": "TRICIA CHEN XIAO HUI",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "marriedname": {
+                "value": "",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "sex": {
+                "code": "F",
+                "desc": "FEMALE",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "race": {
+                "code": "CN",
+                "desc": "CHINESE",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "secondaryrace": {
+                "code": "EU",
+                "desc": "EURASIAN",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "dialect": {
+                "code": "SG",
+                "desc": "SWISS GERMAN",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "nationality": {
+                "code": "SG",
+                "desc": "SINGAPORE CITIZEN",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "dob": {
+                "value": "1958-05-17",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "birthcountry": {
+                "code": "SG",
+                "desc": "SINGAPORE",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "residentialstatus": {
+                "code": "C",
+                "desc": "CITIZEN",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "passportnumber": {
+                "value": "E35463874W",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "passportexpirydate": {
+                "value": "2020-01-01",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "regadd": {
+                "type": "SG",
+                "block": {
+                  "value": "548"
+                },
+                "building": {
+                  "value": ""
+                },
+                "floor": {
+                  "value": "09"
+                },
+                "unit": {
+                  "value": "128"
+                },
+                "street": {
+                  "value": "BEDOK NORTH AVENUE 1"
+                },
+                "postal": {
+                  "value": "460548"
+                },
+                "country": {
+                  "code": "SG",
+                  "desc": "SINGAPORE"
+                },
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "housingtype": {
+                "code": "123",
+                "desc": "TERRACE HOUSE",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "hdbtype": {
+                "code": "112",
+                "desc": "2-ROOM FLAT (HDB)",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "hdbownership": [
+                {
+                  "noofowners": {
+                    "value": 2
+                  },
+                  "address": {
+                    "type": "SG",
+                    "block": {
+                      "value": "548"
+                    },
+                    "building": {
+                      "value": ""
+                    },
+                    "floor": {
+                      "value": "09"
+                    },
+                    "unit": {
+                      "value": "128"
+                    },
+                    "street": {
+                      "value": "BEDOK NORTH AVENUE 1"
+                    },
+                    "postal": {
+                      "value": "460548"
+                    },
+                    "country": {
+                      "code": "SG",
+                      "desc": "SINGAPORE"
+                    }
+                  },
+                  "hdbtype": {
+                    "code": "112",
+                    "desc": "2-ROOM FLAT (HDB)"
+                  },
+                  "leasecommencementdate": {
+                    "value": "2008-06-13"
+                  },
+                  "termoflease": {
+                    "value": 99
+                  },
+                  "dateofpurchase": {
+                    "value": "2008-06-13"
+                  },
+                  "dateofownershiptransfer": {
+                    "value": "2018-06-13"
+                  },
+                  "loangranted": {
+                    "value": 310000.01
+                  },
+                  "originalloanrepayment": {
+                    "value": 25
+                  },
+                  "balanceloanrepayment": {
+                    "years": {
+                      "value": 2
+                    },
+                    "months": {
+                      "value": 6
+                    }
+                  },
+                  "outstandingloanbalance": {
+                    "value": 50000.01
+                  },
+                  "monthlyloaninstalment": {
+                    "value": 1000.01
+                  },
+                  "classification": "C",
+                  "source": "1",
+                  "lastupdated": "2019-03-26"
+                }
+              ],
+              "ownerprivate": {
+                "value": false,
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "email": {
+                "value": "test@gmail.com",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "mobileno": {
+                "prefix": {
+                  "value": "+"
+                },
+                "areacode": {
+                  "value": "65"
+                },
+                "nbr": {
+                  "value": "66132665"
+                },
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "marital": {
+                "code": "2",
+                "desc": "MARRIED",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "marriagecertno": {
+                "value": "123456789012345",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "countryofmarriage": {
+                "code": "SG",
+                "desc": "SINGAPORE",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "marriagedate": {
+                "value": "2007-01-01",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "divorcedate": {
+                "value": "",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "childrenbirthrecords": [
+                {
+                  "birthcertno": {
+                    "value": "S5562882C"
+                  },
+                  "name": {
+                    "value": "Jo Tan Pei Ni"
+                  },
+                  "hanyupinyinname": {
+                    "value": "Cheng Pei Ni"
+                  },
+                  "aliasname": {
+                    "value": ""
+                  },
+                  "hanyupinyinaliasname": {
+                    "value": ""
+                  },
+                  "marriedname": {
+                    "value": ""
+                  },
+                  "sex": {
+                    "code": "F",
+                    "desc": "FEMALE"
+                  },
+                  "race": {
+                    "code": "CN",
+                    "desc": "CHINESE"
+                  },
+                  "secondaryrace": {
+                    "code": "",
+                    "desc": ""
+                  },
+                  "dialect": {
+                    "code": "HK",
+                    "desc": "HOKKIEN"
+                  },
+                  "lifestatus": {
+                    "code": "D",
+                    "desc": "DECEASED"
+                  },
+                  "dob": {
+                    "value": "2011-09-10"
+                  },
+                  "tob": {
+                    "value": "0901"
+                  },
+                  "classification": "C",
+                  "source": "1",
+                  "lastupdated": "2019-03-26"
+                }
+              ],
+              "sponsoredchildrenrecords": [
+                {
+                  "nric": {
+                    "value": "S5562882C"
+                  },
+                  "name": {
+                    "value": "Jo Tan Pei Ni"
+                  },
+                  "hanyupinyinname": {
+                    "value": "Cheng Pei Ni"
+                  },
+                  "aliasname": {
+                    "value": ""
+                  },
+                  "hanyupinyinaliasname": {
+                    "value": ""
+                  },
+                  "marriedname": {
+                    "value": ""
+                  },
+                  "sex": {
+                    "code": "F",
+                    "desc": "FEMALE"
+                  },
+                  "race": {
+                    "code": "CN",
+                    "desc": "CHINESE"
+                  },
+                  "secondaryrace": {
+                    "code": "",
+                    "desc": ""
+                  },
+                  "dialect": {
+                    "code": "HK",
+                    "desc": "HOKKIEN"
+                  },
+                  "dob": {
+                    "value": "2011-09-10"
+                  },
+                  "birthcountry": {
+                    "code": "SG",
+                    "desc": "SINGAPORE"
+                  },
+                  "lifestatus": {
+                    "code": "A",
+                    "desc": "ALIVE"
+                  },
+                  "residentialstatus": {
+                    "code": "C",
+                    "desc": "Citizen"
+                  },
+                  "nationality": {
+                    "code": "SG",
+                    "desc": "SINGAPORE CITIZEN"
+                  },
+                  "scprgrantdate": {
+                    "value": "2015-06-13"
+                  },
+                  "classification": "C",
+                  "source": "1",
+                  "lastupdated": "2019-03-26"
+                }
+              ],
+              "occupation": {
+                "code": "53201",
+                "desc": "HEALTHCARE ASSISTANT",
+                "value": "",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "employment": {
+                "value": "ALPHA",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "passtype": {
+                "code": "RPass",
+                "desc": "Work Permit",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "passstatus": {
+                "value": "Live",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "passexpirydate": {
+                "value": "2022-12-31",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "employmentsector": {
+                "value": "Manufacturing",
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "vehicles": {
+                "vehicleno": {
+                  "value": "SDF1235A"
+                },
+                "type": {
+                  "value": "PASSENGER MOTOR CAR"
+                },
+                "iulabelno": {
+                  "value": ""
+                },
+                "make": {
+                  "value": "TOYOTA"
+                },
+                "model": {
+                  "value": "COROLLA ALTIS"
+                },
+                "chassisno": {
+                  "value": "ZC11S1735800"
+                },
+                "engineno": {
+                  "value": "M13A1837453"
+                },
+                "motorno": {
+                  "value": ""
+                },
+                "yearofmanufacture": {
+                  "value": "2010"
+                },
+                "firstregistrationdate": {
+                  "value": "2010-06-06"
+                },
+                "originalregistrationdate": {
+                  "value": "2010-06-06"
+                },
+                "coecategory": {
+                  "value": "A - CAR UP TO 1600CC & 97KW (130BHP)"
+                },
+                "coeexpirydate": {
+                  "value": "2020-06-05"
+                },
+                "roadtaxexpirydate": {
+                  "value": "2020-06-05"
+                },
+                "quotapremium": {
+                  "value": 14000.01
+                },
+                "openmarketvalue": {
+                  "value": 25000.01
+                },
+                "co2emission": {
+                  "value": 146.01
+                },
+                "status": {
+                  "code": "1",
+                  "desc": "LIVE"
+                },
+                "primarycolour": {
+                  "value": "BLACK"
+                },
+                "secondarycolour": {
+                  "value": "WHITE"
+                },
+                "attachment1": {
+                  "value": "DISABLED"
+                },
+                "attachment2": {
+                  "value": "WITH SUN ROOF"
+                },
+                "attachment3": {
+                  "value": "SIDE CURTAIN"
+                },
+                "scheme": {
+                  "value": "REVISED OFF-PEAK CAR"
+                },
+                "thcemission": {
+                  "value": 1.011001
+                },
+                "coemission": {
+                  "value": 1.100001
+                },
+                "noxemission": {
+                  "value": 0.011001
+                },
+                "pmemission": {
+                  "value": 0.007
+                },
+                "enginecapacity": {
+                  "value": 1600
+                },
+                "powerrate": {
+                  "value": 1.41
+                },
+                "effectiveownership": {
+                  "value": "2010-08-31T20:12:12+08:00"
+                },
+                "propellant": {
+                  "value": "Compressed Natural Gas"
+                },
+                "maximumunladenweight": {
+                  "value": 1500
+                },
+                "maximumladenweight": {
+                  "value": 1795
+                },
+                "minimumparfbenefit": {
+                  "value": 8770.01
+                },
+                "nooftransfers": {
+                  "value": 2
+                },
+                "vpc": {
+                  "value": "1234567890"
+                },
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "drivinglicence": {
+                "comstatus": {
+                  "code": "Y",
+                  "desc": "ELIGIBLE"
+                },
+                "totaldemeritpoints": {
+                  "value": 0
+                },
+                "suspension": {
+                  "startdate": {
+                    "value": ""
+                  },
+                  "enddate": {
+                    "value": ""
+                  }
+                },
+                "disqualification": {
+                  "startdate": {
+                    "value": ""
+                  },
+                  "enddate": {
+                    "value": ""
+                  }
+                },
+                "revocation": {
+                  "startdate": {
+                    "value": ""
+                  },
+                  "enddate": {
+                    "value": ""
+                  }
+                },
+                "pdl": {
+                  "validity": {
+                    "code": "V",
+                    "desc": "VALID"
+                  },
+                  "expirydate": {
+                    "value": "2020-06-15"
+                  },
+                  "classes": [
+                    {
+                      "class": {
+                        "value": "2A"
+                      }
+                    },
+                    {
+                      "class": {
+                        "value": "3A"
+                      }
+                    }
+                  ]
+                },
+                "qdl": {
+                  "validity": {
+                    "code": "V",
+                    "desc": "VALID"
+                  },
+                  "expirydate": {
+                    "value": "2020-06-15"
+                  },
+                  "classes": [
+                    {
+                      "class": {
+                        "value": "2A"
+                      },
+                      "issuedate": {
+                        "value": "2018-06-06"
+                      }
+                    },
+                    {
+                      "class": {
+                        "value": "3A"
+                      },
+                      "issuedate": {
+                        "value": "2018-06-06"
+                      }
+                    }
+                  ]
+                },
+                "photocardserialno": {
+                  "value": "115616"
+                },
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "noa-basic": {
+                "amount": {
+                  "value": 100000.01
+                },
+                "yearofassessment": {
+                  "value": "2018"
+                },
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "noa": {
+                "amount": {
+                  "value": 100000.01
+                },
+                "yearofassessment": {
+                  "value": "2018"
+                },
+                "employment": {
+                  "value": 100000.01
+                },
+                "trade": {
+                  "value": 0
+                },
+                "rent": {
+                  "value": 0
+                },
+                "interest": {
+                  "value": 0
+                },
+                "taxclearance": {
+                  "value": "N"
+                },
+                "category": {
+                  "value": "ORIGINAL"
+                },
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "noahistory-basic": {
+                "noas": [
+                  {
+                    "amount": {
+                      "value": 100000.01
+                    },
+                    "yearofassessment": {
+                      "value": "2018"
+                    }
+                  }
+                ],
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "noahistory": {
+                "noas": [
+                  {
+                    "amount": {
+                      "value": 100000.01
+                    },
+                    "yearofassessment": {
+                      "value": "2018"
+                    },
+                    "employment": {
+                      "value": 100000.01
+                    },
+                    "trade": {
+                      "value": 0
+                    },
+                    "rent": {
+                      "value": 0
+                    },
+                    "interest": {
+                      "value": 0
+                    },
+                    "taxclearance": {
+                      "value": "N"
+                    },
+                    "category": {
+                      "value": "ORIGINAL"
+                    }
+                  }
+                ],
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "cpfcontributions": {
+                "history": [
+                  {
+                    "date": {
+                      "value": "2016-12-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2016-11"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2016-12-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2016-12"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2016-12-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2016-12"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-01-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2016-12"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-01-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-01"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-01-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-01"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-02-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-01"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-02-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-02"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-02-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-02"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-03-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-02"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-03-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-03"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-03-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-03"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-04-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-03"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-04-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-04"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-04-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-04"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-05-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-04"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-05-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-05"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-05-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-05"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-06-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-05"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-06-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-06"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-06-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-06"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-07-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-06"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-07-12"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-07"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-07-21"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-07"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-08-01"
+                    },
+                    "amount": {
+                      "value": 500
+                    },
+                    "month": {
+                      "value": "2017-07"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-08-12"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-08"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-08-21"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-08"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-09-01"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-08"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-09-12"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-09"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-09-21"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-09"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-10-01"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-09"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-10-12"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-10"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-10-21"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-10"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-11-01"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-10"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-11-12"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-11"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-11-21"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-11"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-12-01"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-11"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-12-12"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-12"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2017-12-21"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-12"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2018-01-01"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2017-12"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2018-01-12"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2018-01"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "date": {
+                      "value": "2018-01-21"
+                    },
+                    "amount": {
+                      "value": 750
+                    },
+                    "month": {
+                      "value": "2018-01"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  }
+                ],
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "cpfemployers": {
+                "history": [
+                  {
+                    "month": {
+                      "value": "2016-11"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2016-12"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2016-12"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2016-12"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-01"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-01"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-01"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-02"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-02"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-02"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-03"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-03"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-03"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-04"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-04"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-04"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-05"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-05"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-05"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-06"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-06"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-06"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-07"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-07"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-07"
+                    },
+                    "employer": {
+                      "value": "Crystal Horse Invest Pte Ltd"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-08"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-08"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-08"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-09"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-09"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-09"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-10"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-10"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-10"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-11"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-11"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-11"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-12"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-12"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2017-12"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2018-01"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  },
+                  {
+                    "month": {
+                      "value": "2018-01"
+                    },
+                    "employer": {
+                      "value": "Delta Marine Consultants PL"
+                    }
+                  }
+                ],
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              },
+              "cpfbalances": {
+                "ma": {
+                  "value": 11470.71
+                },
+                "oa": {
+                  "value": 1581.48
+                },
+                "sa": {
+                  "value": 21967.09
+                },
+                "ra": {
+                  "value": 0.01
+                },
+                "classification": "C",
+                "source": "1",
+                "lastupdated": "2019-03-26"
+              }
+            }
+          }
+    }
+}
