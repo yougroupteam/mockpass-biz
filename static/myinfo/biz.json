@@ -248,6 +248,31 @@
                       "code": "1",
                       "desc": "Individual"
                     }
+                  },
+                  {
+                    "appointment-date": {
+                      "value": "2001-08-25"
+                    },
+                    "category": {
+                      "code": "5",
+                      "desc": "Limited Liability Partnerships"
+                    },
+                    "entity-reference": {
+                      "entity-name": {
+                        "value": "APPOINTMENT ENTITY NAME"
+                      },
+                      "entity-type": {
+                        "code": "LL",
+                        "desc": "Limited Liability Partnerships"
+                      },
+                      "uen": {
+                        "value": "T11AA0000K"
+                      }
+                    },
+                    "position": {
+                      "code": "4",
+                      "desc": "Auditor"
+                    }
                   }
                 ],
                 "source": "1",
@@ -364,6 +389,35 @@
                     "category": {
                       "code": "1",
                       "desc": "Individual"
+                    },
+                    "share-type": {
+                      "code": "1",
+                      "desc": "Ordinary Capital"
+                    }
+                  },
+                  {
+                    "allocation": {
+                      "value": 15
+                    },
+                    "category": {
+                      "code": "2",
+                      "desc": "Local Company"
+                    },
+                    "currency": {
+                      "code": "SGD",
+                      "desc": "SINGAPORE, DOLLARS"
+                    },
+                    "entity-reference": {
+                      "entity-name": {
+                        "value": "SHAREHOLDER ENTITY NAME"
+                      },
+                      "entity-type": {
+                        "code": "LC",
+                        "desc": "Local Company"
+                      },
+                      "uen": {
+                        "value": "200110009R"
+                      }
                     },
                     "share-type": {
                       "code": "1",
