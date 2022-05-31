@@ -351,7 +351,7 @@
                       }
                     },
                     "allocation": {
-                      "value": 8000
+                      "value": 990000.0000000001
                     },
                     "currency": {
                       "code": "SGD",
@@ -380,7 +380,7 @@
                       }
                     },
                     "allocation": {
-                      "value": 12000
+                      "value": 10000
                     },
                     "currency": {
                       "code": "SGD",
@@ -397,7 +397,7 @@
                   },
                   {
                     "allocation": {
-                      "value": 15
+                      "value": 100.0001
                     },
                     "category": {
                       "code": "2",
